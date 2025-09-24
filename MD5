@@ -1,7 +1,7 @@
-58561791307adcd6bd19357e540dbbd7 *DESCRIPTION
+663913ba06774c6a7315c6f0ba20c7a3 *DESCRIPTION
 eefb02b6eeba525c2d461e7f913e705e *LICENSE
 b305ade1685875aeb8fea502c89693fc *NAMESPACE
-786906d1a1787c7ed8ae1cde9351152b *NEWS.md
+3670de9513a430d2239b9a70eaf752b3 *NEWS.md
 45f620b413166cf67ea3b45a4d847182 *R/create_bar_plot.R
 b2c26d47a3e099f9e2d9325bda1a7a9d *R/create_box_plot.R
 59520fc96e48d54d79a9036580b12219 *R/create_density_plot.R
@@ -13,7 +13,7 @@ f0a731d6b408d34e6720f3c54e2acce4 *R/create_range_plot.R
 64d16313c91bb66c5e1a82adf583ab7a *R/create_scatter_plot.R
 20398df5ad62e94df23189e5402164b6 *R/create_sf_plot.R
 2f8c84b7f6e0f500779183d434ef7ac3 *R/create_stick_plot.R
-5446ec005efc8a21915ef5c123d5d70c *R/create_table.R
+fb023469fa067e18321bbf86643cced9 *R/create_table.R
 af99c8eff2bbf45e8a02afac92d7b08e *R/create_table_graphic.R
 0535f29178ce650b894734c62b6aa429 *R/create_waffle_chart.R
 c80fc8c01c225be383d5bd59ee7324e0 *R/data.R
@@ -23,7 +23,7 @@ cd0f2a02cc1bd581148b0ba85af66f8a *R/multi_panel_grid.R
 6e71c96436693e712fcc7d4a94c7f87d *R/spread_level_plot.R
 3b938a853518e827daca6837b047b5cc *R/stem_leaf_display.R
 7d53588747c47be9d336d6620cdaeec8 *R/symmetry_plot.R
-695a3d7f82f14947ac47eec5a4644ea4 *README.md
+f29541ae30b63b676f95e683ab80fcce *README.md
 e43a71e58b1324e0cc7c00919826bbdf *data/air_passengers.rda
 8b374d012364df98b43adbe8af2deb44 *data/boston_marathon.rda
 2f547aa0c0b6d140878ec642537600f2 *data/car_stats.rda
@@ -57,11 +57,11 @@ fc192b3ef7c5395ba14bce1689d015b7 *man/create_raster_plot.Rd
 ab36d44dfdd9b8390a90c4e2ff40fb78 *man/create_scatter_plot.Rd
 25961d16bfa465af63ee604f18894a2e *man/create_sf_plot.Rd
 3aabb965dba93a468526ebee45014be4 *man/create_stick_plot.Rd
-b8162acde0a67b0e555f538f68fe3350 *man/create_table.Rd
+e80151869a218b7f3a51e9ecc38754f3 *man/create_table.Rd
 ef6f99a8494000451a5298a39e28857c *man/create_table_graphic.Rd
 a9fc2781d79a73dce4d14e03d787a21f *man/create_waffle_chart.Rd
 50293962afc42ce4c22e6d1c22e7d092 *man/farms.Rd
-36ff055210c69ad173f27ff1d84d91d9 *man/figures/README-unnamed-chunk-2-1.png
+8e0b025bdbc3a677e53db66519ecec16 *man/figures/README-unnamed-chunk-2-1.png
 c8b244e0678575c25e9eb7db83cac733 *man/figures/README-unnamed-chunk-3-1.png
 1d1d13813cd87076197d3cc92ac2eb1b *man/figures/README-unnamed-chunk-4-1.png
 3afdc2447ddd9b0f6b5223ea574d29ed *man/gapminder_data.Rd
@@ -95,7 +95,7 @@ a97b0cd6fb8fca94e33974fa68dcc0e8 *tests/testthat/_snaps/create_raster_plot.md
 5eadb57fdb5764431d5c6284e669c281 *tests/testthat/_snaps/create_scatter_plot.md
 c6707b4e2390ee7e4181d65a83e4ba0e *tests/testthat/_snaps/create_sf_plot.md
 be1c405b075778a3821454e3b4040333 *tests/testthat/_snaps/create_stick_plot.md
-4580d517e7a02445ad4b62d4454287ce *tests/testthat/_snaps/create_table.md
+6e8f57b0b283b838183155c64f3bba26 *tests/testthat/_snaps/create_table.md
 b6ee9a48b4c55012078b2a60dcf439d4 *tests/testthat/_snaps/create_table_graphic.md
 030d88d1afd252246bd6cd12a4893d38 *tests/testthat/_snaps/create_waffle_chart.md
 011d7d04a430ce419411ef97aaf05a74 *tests/testthat/_snaps/get_grob_component.md
@@ -115,7 +115,7 @@ d98f0a2bafcbcff6ca66959543ca0e57 *tests/testthat/test-create_heatmap.R
 50a0f6822fc6f60d69835415eb0920f5 *tests/testthat/test-create_scatter_plot.R
 9cc93d67b64521a57a9ed19dc8be1d2c *tests/testthat/test-create_sf_plot.R
 028279651a07fb3cae2c7366cb13b434 *tests/testthat/test-create_stick_plot.R
-9bb32c318039cfb480a850e857ff5d5e *tests/testthat/test-create_table.R
+7d6ebfa7e242a26b09861bae99f394cd *tests/testthat/test-create_table.R
 69e2243d2aa19c7140689ebca63a8697 *tests/testthat/test-create_table_graphic.R
 0fa876e9cb9e01b8cbd36cf53645c74f *tests/testthat/test-create_waffle_chart.R
 bb0ba92c1e59d5fa80da7468485778f9 *tests/testthat/test-get_grob_component.R
