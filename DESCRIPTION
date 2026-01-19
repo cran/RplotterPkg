@@ -1,11 +1,11 @@
 Package: RplotterPkg
 Type: Package
 Title: R Plotting Functions Using 'ggplot2'
-Version: 0.1.4
+Version: 0.1.5
 Authors@R: c(
     person(
       "Rick", "Dean",
-      email = "deanr3@bardstown.com",
+      email = "deandevl@pm.me",
       role = c("aut", "cre", "cph"),
       comment = c(ORCID = "0009-0005-8086-8436")
     )
@@ -32,9 +32,9 @@ LazyData: true
 RoxygenNote: 7.3.2
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2025-09-24 12:03:28 UTC; deanr
+Packaged: 2026-01-18 17:48:55 UTC; deanr
 Author: Rick Dean [aut, cre, cph] (ORCID:
     <https://orcid.org/0009-0005-8086-8436>)
-Maintainer: Rick Dean <deanr3@bardstown.com>
+Maintainer: Rick Dean <deandevl@pm.me>
 Repository: CRAN
-Date/Publication: 2025-09-24 14:20:02 UTC
+Date/Publication: 2026-01-19 16:20:02 UTC
